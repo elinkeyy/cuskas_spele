@@ -180,7 +180,7 @@ def speleLoop():
 
         for x in cuska_List[:-1]:
             if x == cuska_galva:
-                spele_beidzas = True
+                spele_izsledzas = True
 
         speletaja_cuska(cuskas_bloks, cuska_List)
         speletaja_rezultats(cuskas_garums - 1)
