@@ -96,7 +96,7 @@ def galvena_izvelne():
     izvelne = True
     while izvelne:
         ekrans.blit(izvelne_bg, (0,0))
-        nosaukums = rezultats_font.render("Spēle 'Čuska'", True, roza)
+        nosaukums = rezultats_font.render("Spēle 'Čūska'", True, roza)
         opcija1 = font_style.render("1. Sākt spēli", True, roza, 2)
         opcija2 = font_style.render("2. Labākie rezultāti", True, roza, 2)
         opcija3 = font_style.render("3. Beigt", True, roza, 2)
